@@ -1,0 +1,147 @@
+body {
+    width: 1024px;
+    height: 815px;
+    margin: 0 auto;
+    border: 1px solid #d1d1d1;
+    background-color: #ffffff;
+}
+.about {
+    width: 350px;
+    height: 540px;
+    margin: 20px 20px 20px 20px;
+    background-color: white;
+    border-top: 2px solid white;
+    border-right: 2px dotted #d1d1d1;
+    position: relative;
+}
+.person {
+    list-style-type: none;
+}
+.me{
+    position: relative;
+    margin: 20px 55px;   
+}
+.personal_info {
+    font: 15px/1.22 "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;   
+    margin-top: 10px;
+    color: #615f5f;
+    
+}
+.header {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.header_info {
+    position: absolute;
+    top: 30px;
+    color: #ffffff;
+    font: 18px/1.22 "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    text-align: center;
+    
+} 
+.person p {
+    margin: 3px auto 0 0;
+}
+.skills {
+    position: relative;
+} 
+.education {
+    height: 200px;
+    width: 600px;
+    border-top: 1px solid #cccccc;    
+    position: absolute;
+    top: -540px;
+    left: 390px;
+   
+    
+} 
+
+.programming{
+    height: 316px;
+    width: 600px;
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+    position: absolute;
+    top: -339px;
+    left: 390px;
+    
+    font: 14px/1.22 "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.education h3{
+    padding-left: 10px;
+    color: #242d39;
+    font: 30px/1.22 "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.education ul li{
+    font: 15px/1.22 "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: #615f5f;
+}
+.education ul {
+    list-style-type: none;
+}
+
+.info {
+    position: relative;
+}
+.programming h3 {
+    padding-left: 10px;    
+    font: 30px/1.22 "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: #242d39;
+}
+.programming h4 {
+    padding-left: 10px;  
+    color: #242d39;
+    font: 20px/1.22 "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.programming p {
+    font: 15px/1.22 "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    padding-left: 10px; 
+    
+}
+.programming ul{
+    list-style-type: none;
+}
+.programming ul li {
+    color: #615f5f;
+}
+.cm a {
+    position: absolute;
+    left: 90px;
+    top: 490px;
+    border-bottom: none;
+    text-decoration: none;
+    color: #37475b; 
+   
+
+}
+.cm p {
+    position: absolute;
+    left: 90px;
+    top: 449px;
+    
+
+}
+.icons img {
+    display: block;
+    margin: 5px;
+}
+.icons {
+    position: absolute;
+    left: 50px;
+    top: 460px;
+}
+.git{
+    margin-top: 26px;
+    
+}
+.codeacademy {
+    text-decoration: none;
+    color: #37475b;
+}
+
+
+    
